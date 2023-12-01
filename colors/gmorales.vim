@@ -1,11 +1,6 @@
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "                            GMORALES-COLORSCHEME                            "
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" A simply dark theme for vim terminal and gvim.
-" It is designed for use in dark and bright enviroments, and for read it
-" clearly and not tire your eyes
-" 
-" The codes for the colors are in https://www.ditig.com/256-colors-cheat-sheet
 
 set background=dark
 highlight clear
@@ -38,7 +33,7 @@ highlight PmenuSel     ctermfg=255 ctermbg=244                   guifg=#eeeeee g
 
 highlight TabLine      ctermfg=252 ctermbg=237                   guifg=#d0d0d0 guibg=#3a3a3a
 highlight TabLineSel   ctermfg=255 ctermbg=234                   guifg=#eeeeee guibg=#1c1c1c
-highlight TabLineFill  ctermfg=234                               guifg=#1c1c1c 
+highlight TabLineFill  ctermfg=234                               guifg=#1c1c1c
 highlight Title        ctermfg=252 ctermbg=237                   guifg=#d0d0d0 guibg=#3a3a3a
 
 highlight Comment      ctermfg=137                               guifg=#af875f
